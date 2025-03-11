@@ -1,0 +1,15 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+pandas
+Flask
+gunicorn
+uvicorn
+fastapi
+tqdm
+matplotlib
+seaborn
+scikit-learn
+pytest
