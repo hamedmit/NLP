@@ -1,4 +1,4 @@
-# Support Documentation AI Model
+# Support Documentation AI Model (A ChatBot)
 
 ## Overview
 
